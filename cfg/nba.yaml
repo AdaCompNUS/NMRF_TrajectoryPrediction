@@ -1,0 +1,15 @@
+# network parameters
+z_dim: 16  #64
+f2_dim: 32  #64
+stride: 10
+
+# dataloader
+train_batch_size: 32
+eval_batch_size: 50
+
+# learning process
+lr: 0.0001  #2e-4
+step_size: 32
+gamma: 0.6
+num_epoch_vae: 150 #600
+num_epoch_sampler: 50
