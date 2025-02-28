@@ -1,6 +1,6 @@
 # Neuralized Markov Random Field for Interaction-Aware Stochastic Human Trajectory Prediction
 
-PyTorch implementation for ICLR'25 paper [Neuralized Markov Random Field for Interaction-Aware Stochastic Human Trajectory Prediction]().
+PyTorch implementation for ICLR'25 paper [Neuralized Markov Random Field for Interaction-Aware Stochastic Human Trajectory Prediction](https://openreview.net/forum?id=r3cEOVj7Ze).
 
 
 ## 1. Overview
@@ -115,6 +115,13 @@ With the pre-trained models, you will get:
 
 If you find this repo useful, please consider citing our paper as:
 ```bibtex
+@inproceedings{
+fang2025neuralized,
+title={Neuralized Markov Random Field for Interaction-Aware Stochastic Human Trajectory Prediction},
+author={Zilin Fang and David Hsu and Gim Hee Lee},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025}
+}
 ```
 
 
